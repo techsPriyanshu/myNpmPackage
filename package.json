@@ -1,0 +1,20 @@
+{
+  "name": "mathop-simplify",
+  "version": "1.0.0",
+  "description": "it is a package for maths operation ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "math",
+    "palindrome",
+    "prime_number",
+    "armstrong",
+    "km",
+    "to",
+    "meter"
+  ],
+  "author": "priyanshu pathak",
+  "license": "ISC"
+}
